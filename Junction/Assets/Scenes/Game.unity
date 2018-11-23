@@ -708,6 +708,8 @@ MonoBehaviour:
   - {fileID: 652559670}
   goodScoreText: {fileID: 1993728196}
   badScoreText: {fileID: 1270019361}
+  goodScoreSp: {fileID: 630026742}
+  badScoreSp: {fileID: 1723733870}
 --- !u!4 &1366079382
 Transform:
   m_ObjectHideFlags: 0

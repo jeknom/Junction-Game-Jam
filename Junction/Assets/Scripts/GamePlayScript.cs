@@ -17,6 +17,8 @@ public class GamePlayScript : MonoBehaviour {
     [SerializeField] private Text goodScoreText;
     [SerializeField] private Text badScoreText;
 
+    [SerializeField] private GameObject goodScoreSp;
+    [SerializeField] private GameObject badScoreSp;
     void Start () {
         Invoke("startGame",2f);
 	}
@@ -38,16 +40,18 @@ public class GamePlayScript : MonoBehaviour {
     private void detectKeyPress()
     {
         
-            if (Input.GetKeyUp(KeyCode.A))
-            {
-                ggCount++;
-            }
-
-            if (Input.GetKeyUp(KeyCode.L))
-            {
-                bgCount++;
-            }
+        if (Input.GetKeyUp(KeyCode.A))
+        {
+            ggCount++;
         updateScore();
+        }
+
+        if (Input.GetKeyUp(KeyCode.L))
+        {
+            bgCount++;
+            updateScore();
+        }
+        
     }
 
     private void countDown()
@@ -78,5 +82,23 @@ public class GamePlayScript : MonoBehaviour {
     {
         goodScoreText.text = "Good: " + ggCount;
         badScoreText.text = "Bad: " + bgCount;
+
+        if (ggCount > bgCount)
+        {
+            goodScoreSp.GetComponent<SpriteRenderer>().sortingOrder = 1;
+            badScoreSp.GetComponent<SpriteRenderer>().sortingOrder = 0;
+
+            goodScoreSp.transform.localScale += new Vector3(0,(ggCount-bgCount) * Time.deltaTime * 5f, 0);
+            badScoreSp.transform.localScale += new Vector3(0, (bgCount - ggCount) * Time.deltaTime * 5f, 0);
+        }
+
+        else if (ggCount < bgCount)
+        {
+            goodScoreSp.GetComponent<SpriteRenderer>().sortingOrder = 0;
+            badScoreSp.GetComponent<SpriteRenderer>().sortingOrder = 1;
+
+            badScoreSp.transform.localScale += new Vector3(0, (bgCount - ggCount) * Time.deltaTime * 5f, 0);
+            goodScoreSp.transform.localScale += new Vector3(0, (ggCount - bgCount) * Time.deltaTime * 5f, 0);
+        }
     }
 }
