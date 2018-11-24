@@ -52,9 +52,9 @@ public class GamePlayScript : MonoBehaviour {
 
 
             goodScoreSp.transform.localScale = Vector3.Lerp(goodScoreSp.transform.localScale, (goodScoreSp.transform.localScale 
-                + new Vector3(0, (ggCount%5), 0)), Time.deltaTime * 2f);
+                + new Vector3(0, (1f), 0)), Time.deltaTime * 1f);
             badScoreSp.transform.localScale = Vector3.Lerp(badScoreSp.transform.localScale, (badScoreSp.transform.localScale
-               - new Vector3(0, (ggCount % 5), 0)), Time.deltaTime * 2f);
+               - new Vector3(0, (1f), 0)), Time.deltaTime * 1f);
         }
 
         if (Input.GetKeyUp(KeyCode.L))
@@ -65,9 +65,9 @@ public class GamePlayScript : MonoBehaviour {
             badScoreSp.GetComponent<SpriteRenderer>().sortingOrder = 1;
 
             badScoreSp.transform.localScale = Vector3.Lerp(badScoreSp.transform.localScale, (badScoreSp.transform.localScale
-               + new Vector3(0, (bgCount % 5), 0)), Time.deltaTime * 2f);
+               + new Vector3(0, (1f), 0)), Time.deltaTime * 1f);
             goodScoreSp.transform.localScale = Vector3.Lerp(goodScoreSp.transform.localScale, (goodScoreSp.transform.localScale
-                - new Vector3(0, (bgCount % 5), 0)), Time.deltaTime * 2f);
+                - new Vector3(0, (1f), 0)), Time.deltaTime * 1f);
 
         }
         
