@@ -52,9 +52,9 @@ public class GamePlayScript : MonoBehaviour {
 
 
             goodScoreSp.transform.localScale = Vector3.Lerp(goodScoreSp.transform.localScale, (goodScoreSp.transform.localScale 
-                + new Vector3(0, (1f), 0)), Time.deltaTime * 1f);
+                + new Vector3((1f),0, 0)), Time.deltaTime * 1f);
             badScoreSp.transform.localScale = Vector3.Lerp(badScoreSp.transform.localScale, (badScoreSp.transform.localScale
-               - new Vector3(0, (1f), 0)), Time.deltaTime * 1f);
+               - new Vector3((1f),0, 0)), Time.deltaTime * 1f);
         }
 
         if (Input.GetKeyUp(KeyCode.L))
@@ -65,9 +65,9 @@ public class GamePlayScript : MonoBehaviour {
             badScoreSp.GetComponent<SpriteRenderer>().sortingOrder = 1;
 
             badScoreSp.transform.localScale = Vector3.Lerp(badScoreSp.transform.localScale, (badScoreSp.transform.localScale
-               + new Vector3(0, (1f), 0)), Time.deltaTime * 1f);
+               + new Vector3((1f), 0, 0)), Time.deltaTime * 1f);
             goodScoreSp.transform.localScale = Vector3.Lerp(goodScoreSp.transform.localScale, (goodScoreSp.transform.localScale
-                - new Vector3(0, (1f), 0)), Time.deltaTime * 1f);
+                - new Vector3((1f),0, 0)), Time.deltaTime * 1f);
 
         }
         
@@ -107,8 +107,8 @@ public class GamePlayScript : MonoBehaviour {
             goodScoreSp.GetComponent<SpriteRenderer>().sortingOrder = 1;
             badScoreSp.GetComponent<SpriteRenderer>().sortingOrder = 0;
 
-            goodScoreSp.transform.localScale += new Vector3(0,(ggCount-bgCount) * Time.deltaTime * 5f, 0);
-            badScoreSp.transform.localScale += new Vector3(0, (-(ggCount - bgCount) * Time.deltaTime * 5f), 0);
+            goodScoreSp.transform.localScale += new Vector3((ggCount-bgCount) * Time.deltaTime * 5f, 0);
+            badScoreSp.transform.localScale += new Vector3( (-(ggCount - bgCount) * Time.deltaTime * 5f), 0);
         }
 
         else if (ggCount < bgCount)
@@ -116,8 +116,8 @@ public class GamePlayScript : MonoBehaviour {
             goodScoreSp.GetComponent<SpriteRenderer>().sortingOrder = 0;
             badScoreSp.GetComponent<SpriteRenderer>().sortingOrder = 1;
 
-            badScoreSp.transform.localScale += new Vector3(0, (bgCount - ggCount) * Time.deltaTime * 5f, 0);
-            goodScoreSp.transform.localScale += new Vector3(0, -((bgCount - ggCount) * Time.deltaTime * 5f), 0);
+            badScoreSp.transform.localScale += new Vector3( (bgCount - ggCount) * Time.deltaTime * 5f, 0);
+            goodScoreSp.transform.localScale += new Vector3(-((bgCount - ggCount) * Time.deltaTime * 5f), 0);
         }
     }
 }
