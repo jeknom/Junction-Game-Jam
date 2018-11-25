@@ -1,0 +1,1189 @@
+fileFormatVersion: 2
+guid: b16755a802c1e6745980e8b652663dbf
+timeCreated: 1507914697
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fence_1
+    21300002: Fence_4
+    21300004: Spider web_3
+    21300006: Spider web_2
+    21300008: Spider web_1
+    21300010: Bat
+    21300012: Jack o lantern_1_V1
+    21300014: Jack o lantern_1_V2
+    21300016: Jack o lantern_1_V3
+    21300018: Tree_5_V2
+    21300020: Tree_5_V3
+    21300022: Tree_5_V1
+    21300024: Spider web_4
+    21300026: Eyes_2_green
+    21300028: Eyes_2_red
+    21300030: Eyes_2_blue
+    21300032: Eyes_2_yellow
+    21300034: Eyes_2_violet
+    21300036: Spider
+    21300038: Tree_4
+    21300040: Tree_1
+    21300042: Tree_3
+    21300044: Witch hat_1
+    21300046: Eyes_1_violet
+    21300048: Jack o lantern_2
+    21300050: Jack o lantern_3
+    21300052: House
+    21300054: Eyes_1_blue
+    21300056: Eyes_1_green
+    21300058: Eyes_1_yellow
+    21300060: Eyes_1_red
+    21300062: Tree_2
+    21300064: Spider web_5
+    21300066: Pumpkin_1
+    21300068: Broom_2
+    21300070: Owl
+    21300072: Tombstone_2_V1
+    21300074: Candy_1_V2
+    21300076: Candy_1_V1
+    21300078: Candy_1_V3
+    21300080: Broom_1
+    21300082: Pumpkin_3
+    21300084: Candy_3
+    21300086: Candle_3
+    21300088: Tombstone_3_V1
+    21300090: Pumpkin_2
+    21300092: Witch hat_2
+    21300094: Eyes_4
+    21300096: Mouth_1
+    21300098: Loli_2_V3
+    21300100: Eyes_3_red
+    21300102: Eyes_3_yellow
+    21300104: Loli_1_V1
+    21300106: Mouth_2
+    21300108: Loli_2_V2
+    21300110: Eyes_3_blue
+    21300112: Loli_2_V1
+    21300114: Tombstone_3_V2
+    21300116: Loli_1_V3
+    21300118: Eyes_3_green
+    21300120: Loli_1_V2
+    21300122: Tombstone_2_V2
+    21300124: Eyes_3_violet
+    21300126: Fence_3
+    21300128: Cauldron_V1
+    21300130: Cauldron_V2
+    21300132: Cauldron_V3
+    21300134: Tombstone_1_V1
+    21300136: Candy_2
+    21300138: Candle_1
+    21300140: Fence_2
+    21300142: Tombstone_1_V2
+    21300144: Candle_2
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fence_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 256
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fence_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1
+        width: 256
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.60544217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Spider web_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 212
+        width: 256
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Spider web_2
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1
+        width: 255
+        height: 255
+      alignment: 9
+      pivot: {x: 0.49803922, y: 0.49803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Spider web_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 468
+        width: 255
+        height: 253
+      alignment: 9
+      pivot: {x: 0.49803922, y: 0.49407116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bat
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 150
+        width: 138
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.496063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jack o lantern_1_V1
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1
+        width: 241
+        height: 254
+      alignment: 9
+      pivot: {x: 0.4979253, y: 0.503937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jack o lantern_1_V2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 468
+        width: 242
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.503937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jack o lantern_1_V3
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1
+        width: 244
+        height: 254
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0.503937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tree_5_V2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 723
+        width: 253
+        height: 248
+      alignment: 9
+      pivot: {x: 0.49802372, y: 0.4919355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tree_5_V3
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 258
+        width: 253
+        height: 248
+      alignment: 9
+      pivot: {x: 0.49802372, y: 0.4919355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tree_5_V1
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 257
+        width: 253
+        height: 248
+      alignment: 9
+      pivot: {x: 0.49802372, y: 0.4919355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Spider web_4
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1
+        width: 250
+        height: 251
+      alignment: 9
+      pivot: {x: 0.496, y: 0.49800798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_2_green
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 724
+        width: 251
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49800798, y: 0.60240966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_2_red
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 973
+        width: 251
+        height: 84
+      alignment: 9
+      pivot: {x: 0.49800798, y: 0.61904764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_2_blue
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 507
+        width: 251
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49800798, y: 0.60240966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_2_yellow
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 257
+        width: 251
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49800798, y: 0.60240966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_2_violet
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1
+        width: 251
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49800798, y: 0.60240966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Spider
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 809
+        width: 251
+        height: 175
+      alignment: 9
+      pivot: {x: 0.49800798, y: 0.49714285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tree_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1059
+        width: 220
+        height: 250
+      alignment: 9
+      pivot: {x: 0.47272727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tree_1
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 507
+        width: 249
+        height: 249
+      alignment: 9
+      pivot: {x: 0.48594376, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tree_3
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 254
+        width: 212
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5141509, y: 0.502008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Witch hat_1
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1
+        width: 249
+        height: 223
+      alignment: 9
+      pivot: {x: 0.49799198, y: 0.50224215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_1_violet
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 508
+        width: 248
+        height: 81
+      alignment: 9
+      pivot: {x: 0.49596775, y: 0.50617284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jack o lantern_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 986
+        width: 202
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5247525, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jack o lantern_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1311
+        width: 248
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: House
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 592
+        width: 248
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_1_blue
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 342
+        width: 248
+        height: 81
+      alignment: 9
+      pivot: {x: 0.49596775, y: 0.50617284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_1_green
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 505
+        width: 248
+        height: 81
+      alignment: 9
+      pivot: {x: 0.49596775, y: 0.50617284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_1_yellow
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 86
+        width: 248
+        height: 81
+      alignment: 9
+      pivot: {x: 0.49596775, y: 0.50617284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_1_red
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 226
+        width: 248
+        height: 81
+      alignment: 9
+      pivot: {x: 0.49596775, y: 0.50617284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tree_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 986
+        width: 212
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4979757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Spider web_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1236
+        width: 246
+        height: 242
+      alignment: 9
+      pivot: {x: 0.49186993, y: 0.4876033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Pumpkin_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1555
+        width: 246
+        height: 208
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.49519232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Broom_2
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 150
+        width: 86
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Owl
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 758
+        width: 152
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49593496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tombstone_2_V1
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 588
+        width: 205
+        height: 245
+      alignment: 9
+      pivot: {x: 0.49268293, y: 0.5020408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Candy_1_V2
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 309
+        width: 245
+        height: 240
+      alignment: 9
+      pivot: {x: 0.4979592, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Candy_1_V1
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 226
+        width: 245
+        height: 240
+      alignment: 9
+      pivot: {x: 0.4979592, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Candy_1_V3
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1235
+        width: 245
+        height: 240
+      alignment: 9
+      pivot: {x: 0.4979592, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Broom_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1480
+        width: 171
+        height: 244
+      alignment: 9
+      pivot: {x: 0.26900584, y: 0.49590164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Pumpkin_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1765
+        width: 158
+        height: 243
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.4979424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Candy_3
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 758
+        width: 232
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4979253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Candle_3
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 588
+        width: 239
+        height: 165
+      alignment: 9
+      pivot: {x: 0.50209206, y: 0.5090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tombstone_3_V1
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 468
+        width: 237
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.51304346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Pumpkin_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1006
+        width: 237
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.48372093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Witch hat_2
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1477
+        width: 227
+        height: 236
+      alignment: 9
+      pivot: {x: 0.50660795, y: 0.5127119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_4
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 592
+        width: 231
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5021645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mouth_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 838
+        width: 231
+        height: 127
+      alignment: 9
+      pivot: {x: 0.4978355, y: 0.503937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Loli_2_V3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1726
+        width: 101
+        height: 230
+      alignment: 9
+      pivot: {x: 0.4950495, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_3_red
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 425
+        width: 230
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_3_yellow
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 835
+        width: 230
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Loli_1_V1
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1001
+        width: 96
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Mouth_2
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 755
+        width: 163
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5398773, y: 0.5217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Loli_2_V2
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 700
+        width: 101
+        height: 230
+      alignment: 9
+      pivot: {x: 0.4950495, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_3_blue
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1715
+        width: 230
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Loli_2_V1
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1477
+        width: 101
+        height: 230
+      alignment: 9
+      pivot: {x: 0.4950495, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tombstone_3_V2
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1001
+        width: 230
+        height: 224
+      alignment: 9
+      pivot: {x: 0.50869566, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Loli_1_V3
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 932
+        width: 96
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_3_green
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1958
+        width: 230
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Loli_1_V2
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 700
+        width: 96
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tombstone_2_V2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1715
+        width: 205
+        height: 230
+      alignment: 9
+      pivot: {x: 0.49268293, y: 0.4695652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Eyes_3_violet
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1233
+        width: 230
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fence_3
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1227
+        width: 225
+        height: 172
+      alignment: 9
+      pivot: {x: 0.4311111, y: 0.5116279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Cauldron_V1
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 987
+        width: 224
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49758455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Cauldron_V2
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 932
+        width: 224
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49758455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Cauldron_V3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1795
+        width: 224
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47465438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tombstone_1_V1
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1401
+        width: 223
+        height: 197
+      alignment: 9
+      pivot: {x: 0.49775785, y: 0.5076142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Candy_2
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1227
+        width: 216
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Candle_1
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1164
+        width: 215
+        height: 213
+      alignment: 9
+      pivot: {x: 0.49302325, y: 0.49295774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fence_2
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1141
+        width: 197
+        height: 209
+      alignment: 9
+      pivot: {x: 0.35025382, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Tombstone_1_V2
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1600
+        width: 209
+        height: 181
+      alignment: 9
+      pivot: {x: 0.46411484, y: 0.4640884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Candle_2
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 700
+        width: 130
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5221675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
